@@ -1,0 +1,51 @@
+
+html { 
+    background-image: url(https://images.pexels.com/photos/1055054/pexels-photo-1055054.jpeg?auto=compress&cs=tinysrgb&w=600);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode:lighten;
+
+  }
+
+
+
+div{
+    
+    background: wheat;
+    width: 400px;
+
+}
+    
+
+#first{
+    font-size: small;
+     
+}
+
+.title{
+    font-size: large;
+    font-weight: bolder;
+}
+
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    
+}
+
+    ul{
+        display: flex;
+        gap: 5rem;
+        list-style: none;
+        font-size: 20px;
+        color: black;
+        font-weight: bold;
+        font-size: larger;
+        
+    }

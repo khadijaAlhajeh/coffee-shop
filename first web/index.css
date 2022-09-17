@@ -1,0 +1,23 @@
+h1 {
+    font-size: 50px;
+    color: rgb(206, 94, 94);
+}
+h2{
+    font-size: 20px;
+    color: rgb(28, 109, 12);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3{
+    font-size: 30px;
+    color: blueviolet;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: rgb(110, 47, 47);
+}
+
+img{
+width: 200px;
+
+}
